@@ -18,7 +18,6 @@ This program is designed to assist bookstore clerks in managing books and perfor
 To run this program, you need the following:
 - Python 3.8 or higher
 - SQLite3 (default in Python)
-- Any required libraries (listed in `requirements.txt`)
 
 ---
 
